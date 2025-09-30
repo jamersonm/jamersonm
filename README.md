@@ -28,14 +28,11 @@ I thrive on solving complex challenges and contributing to the advancement of te
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/Embedded_Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
-  <img src="https://img.shields.io/badge/Wi--Fi-000000?style=for-the-badge&logo=wi-fi&logoColor=white" alt="Wi-Fi" />
+  <img src="https://img.shields.io/badge/Wi--Fi-2196F3?style=for-the-badge&logo=wifi&logoColor=white" alt="Wi-Fi" />
   <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Bluetooth" />
   <img src="https://img.shields.io/badge/ESP--NOW-FF6D00?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP-NOW" />
-  <img src="https://img.shields.io/badge/LoRa-462E69?style=for-the-badge&logo=lora&logoColor=white" alt="LoRa" />
-  <img src="https://img.shields.io/badge/Firmware-000000?style=for-the-badge&logo=firmware&logoColor=white" alt="Firmware" />
-  <img src="https://img.shields.io/badge/IoT-007ACC?style=for-the-badge&logo=internet-of-things&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/LoRa-0175C2?style=for-the-badge&logo=semtech&logoColor=white" alt="LoRa" />
 </p>
-
 
 ---
 
