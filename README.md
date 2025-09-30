@@ -3,7 +3,7 @@
 
 ---
 
-I graduated in **Electronic Engineering at UTFPR** and I'm currently studying for a Master's in **Computer Sciente at Unioeste**. As a passionate **Researcher** at UTFPR, my strong focus lies in **Embedded Systems** and **IoT solutions**. My expertise involves crafting efficient and robust firmware for microcontrollers like the **ESP32** and **STM32**, with a particular interest in **LoRa communication** for cutting-edge IoT deployments.
+I graduated in **Electronic Engineering from UTFPR** and I'm currently studying for a Master's in **Computer Sciente at Unioeste**. As a passionate **Researcher** at UTFPR, my strong focus lies in **Embedded Systems** and **IoT solutions**. My expertise involves crafting efficient and robust firmware for microcontrollers like the **ESP32** and **STM32**, with a particular interest in **LoRa communication** for cutting-edge IoT deployments.
 
 I thrive on solving complex challenges and contributing to the advancement of technology. My research has led to a publication in the **IEEE Xplore for the SBESC symposium**.
 
@@ -57,7 +57,7 @@ I thrive on solving complex challenges and contributing to the advancement of te
 ### Let's Connect!
 
 * **Lattes:** [My Lattes](http://lattes.cnpq.br/1942270534640148)
-* **LinkedIn:** [My LinkedIn]([https://www.linkedin.com/in/ricardo-de-castro-paula-527338210/](https://www.linkedin.com/in/jamerson-muniz-103a4b17a/))
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/jamerson-muniz-103a4b17a/)
 * **Email:** [jamerson.muniz12@gmail.com]
 
 ---
