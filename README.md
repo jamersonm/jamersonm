@@ -35,10 +35,3 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamersonm&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-
-![Snake animation](https://github.com/jamersonm/jamersonm/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-jamersonm/jamersonm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
